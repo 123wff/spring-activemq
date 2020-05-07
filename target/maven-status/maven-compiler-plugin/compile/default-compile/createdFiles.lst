@@ -1,0 +1,16 @@
+com\itwff\activemq\Embed\EmbedBroker.class
+com\itwff\activemq\topic\JMSConsumer$1.class
+com\itwff\activemq\queue\JmsProduce.class
+com\itwff\activemq\queue\JMSConsumer.class
+com\itwff\activemq\tx\JMSConsumer.class
+com\itwff\activemq\topic\JMSConsumer.class
+com\itwff\activemq\spring\SpringMQ_Produce$1.class
+com\itwff\activemq\queue\JMSConsumer$1.class
+com\itwff\activemq\tx\JMSConsumer$1.class
+com\itwff\activemq\tx\JmsProduce.class
+com\itwff\activemq\spring\SpringMQ_Produce.class
+com\itwff\activemq\topic\JMSConsumer_Persist.class
+com\itwff\activemq\topic\JmsProduce.class
+com\itwff\activemq\topic\JMSProduce_Persist.class
+com\itwff\activemq\spring\SpringMQ_Consumer.class
+com\itwff\activemq\topic\JMSConsumer$2.class
